@@ -286,10 +286,8 @@ Keras와 PyTorch에서 세부적인 성능 차이는 존재했지만,
 |---|---|
 | `README.md` | 프로젝트 개요 및 핵심 실험 결과 |
 | `감정분류_모델구조_개선_및_프레임워크_비교_통합보고서.docx` | 전체 실험 과정과 결과를 정리한 통합 보고서 |
-| `presentation.pptx` | 발표용 프로젝트 요약 자료 |
-| `trained_model.*` | 최종 학습 모델 |
-
-> `presentation.pptx`와 `trained_model.*`은 실제 GitHub에 업로드할 파일명에 맞게 README의 파일명을 수정하면 됩니다.
+| `어린이_감정뷴류_실험결과.pptx` | 발표용 프로젝트 요약 자료 |
+| `model` | 학습 모델 모음|
 
 ---
 
